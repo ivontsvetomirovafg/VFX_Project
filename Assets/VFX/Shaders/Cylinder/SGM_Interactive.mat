@@ -64,14 +64,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _Change: 0
-    - _Distort: 0.397
+    - _Distort: 0.239
     - _Mult_Gradient: 1.71
     - _Power_Gradient: 3.34
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _ColorBlack: {r: 0, g: 0.39678192, b: 8, a: 0}
-    - _ColorWhite: {r: 7.433325, g: 0.7363199, b: 7.2028875, a: 0}
+    - _ColorWhite: {r: 3.3505108, g: 0.73944074, b: 7.4333243, a: 0}
     - _Offset_gradient: {r: 0, g: -0.11, b: 0, a: 0}
     - _Tiling: {r: 1, g: 0.64, b: 0, a: 0}
     - _Velocity: {r: 0.64, g: -0.21, b: 0, a: 0}

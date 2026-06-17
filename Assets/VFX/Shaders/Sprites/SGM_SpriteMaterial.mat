@@ -57,11 +57,11 @@ Material:
     m_Floats:
     - _Gradient_Texture: 1
     - _Mult: 1
-    - _Power: 0.221
+    - _Power: 0.268
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _ColorBlack: {r: 9.389887, g: 0, b: 29.508846, a: 0}
-    - _ColorWhite: {r: 0.000005167506, g: 0, b: 0.000020306414, a: 0}
+    - _ColorBlack: {r: 14.054901, g: 0, b: 47.937263, a: 0}
+    - _ColorWhite: {r: 0.000002388351, g: 0, b: 0.000009309691, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
