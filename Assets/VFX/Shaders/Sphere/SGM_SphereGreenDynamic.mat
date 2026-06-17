@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SMG_SphereAeO
+  m_Name: SGM_SphereGreenDynamic
   m_Shader: {fileID: -6465566751694194690, guid: bdb34154b96da684fb5b084faa99868f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

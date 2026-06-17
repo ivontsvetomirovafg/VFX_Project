@@ -63,7 +63,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Change: 1
+    - _Change: 0
     - _Distort: 0.397
     - _Mult_Gradient: 1.71
     - _Power_Gradient: 3.34

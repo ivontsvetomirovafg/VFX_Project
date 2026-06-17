@@ -4883,6 +4883,7 @@ GameObject:
   - component: {fileID: 8804173424171512079}
   - component: {fileID: 4745436885166841972}
   - component: {fileID: 7741256685126174363}
+  - component: {fileID: 3912221163446091790}
   m_Layer: 0
   m_Name: CylinderHeal
   m_TagString: Untagged
@@ -5275,6 +5276,24 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &3912221163446091790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3138616659422305516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83b5341b70efae4c86cc652de59fb3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ParticleTriggerZone
+  targetParticleSystem: {fileID: 0}
+  propertyToChange: 10
+  valueWhenOutside: 0
+  valueWhenInside: 100
+  transitionDuration: 0.1
+  playerTag: Player
 --- !u!1 &3187958282425756865
 GameObject:
   m_ObjectHideFlags: 0
